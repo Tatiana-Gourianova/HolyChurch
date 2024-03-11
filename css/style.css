@@ -373,6 +373,15 @@ i.skyp {
   vertical-align: middle;
   margin-right: 0.5em;
 }
+i.twt2 {
+   width: 20px;
+  height: 20px;
+  display: inline-block;
+  background: url(../images/img-sprite.png) no-repeat -438px -154px;
+  vertical-align: middle;
+  margin-right: 0.5em;
+}
+
 .footer h3 {
   color: #58593c;
   font-size: 1.4em;
